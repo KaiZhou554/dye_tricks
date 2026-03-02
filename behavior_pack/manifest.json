@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dye Tricks",
+    "description": "https://github.com/KaiZhou554/dye_tricks",
+    "uuid": "140a01b6-a959-44cd-9be1-d63157a0853d",
+    "version": [1, 0, 3],
+    "min_engine_version": [1, 21, 40]
+  },
+  "modules": [
+    {
+      "description": "Allows players to convert raw materials using dyes.",
+      "type": "data",
+      "uuid": "ed7a396b-b6ca-4195-931e-229a23c7bd78",
+      "version": [0, 0, 1]
+    }
+  ]
+}

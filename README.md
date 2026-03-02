@@ -39,7 +39,6 @@ With this mod, you no longer need to fight mobs. Simply grow plants, mine, and f
 1. Go to the Releases page to download the latest version.
 2. Import the behavior pack into Minecraft Bedrock Edition.
 3. Enable the behavior pack in the world settings.
-4. Ensure the world has Script API enabled.
 
 ## License 
 MIT License 
