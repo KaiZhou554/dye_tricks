@@ -4,7 +4,7 @@
     "name": "Dye Tricks",
     "description": "https://github.com/KaiZhou554/dye_tricks",
     "uuid": "140a01b6-a959-44cd-9be1-d63157a0853d",
-    "version": [1, 0, 3],
+    "version": [1, 0, 4],
     "min_engine_version": [1, 21, 40]
   },
   "modules": [
