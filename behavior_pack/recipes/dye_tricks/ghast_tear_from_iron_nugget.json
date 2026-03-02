@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:ghast_tear_from_iron_nugget"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:iron_nugget",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 19
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:iron_nugget"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:ghast_tear"
+      }
+    ]
+  }
+}

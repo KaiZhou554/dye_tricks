@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:string_from_vine"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:vine",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 19
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:vine"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:string"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:deadbush_from_bush"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bush",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 17
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:bush"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:deadbush"
+      }
+    ]
+  }
+}

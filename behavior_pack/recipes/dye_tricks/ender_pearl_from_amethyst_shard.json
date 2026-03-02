@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:ender_pearl_from_amethyst_shard"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 2
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:amethyst_shard"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:ender_pearl"
+      }
+    ]
+  }
+}

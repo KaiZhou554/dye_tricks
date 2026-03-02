@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:leather_from_large_fern"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:large_fern",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 14
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:large_fern"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:leather"
+      }
+    ]
+  }
+}

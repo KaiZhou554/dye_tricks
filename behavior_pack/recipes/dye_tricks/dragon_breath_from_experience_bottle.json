@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:dragon_breath_from_experience_bottle"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 5
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:experience_bottle"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:dragon_breath"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:gunpowder_from_sugar"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:sugar",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 8
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:sugar"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:gunpowder"
+      }
+    ]
+  }
+}
