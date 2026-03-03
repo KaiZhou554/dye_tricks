@@ -42,3 +42,25 @@ Red Dye + Sand = Red Sand
 
 ## Others:
 Magenta Dye + Cyan Dye + Yellow Dye = 3 Black Dye
+
+## Heads:
+White Dye + Carved Pumpkin = Skeleton Skull  
+Black Dye + Carved Pumpkin = Wither Skeleton Skull  
+Green Dye + Carved Pumpkin = Zombie Head  
+Brown Dye + Carved Pumpkin = Player Head  
+Lime Dye + Carved Pumpkin = Creeper Head  
+Orange Dye + Carved Pumpkin = Piglin Head  
+
+## Music Discs:
+Orange Dye + Polished Blackstone Pressure Plate = Blocks  
+Red Dye + Polished Blackstone Pressure Plate = Chirp  
+Lime Dye + Polished Blackstone Pressure Plate = Far  
+Purple Dye + Polished Blackstone Pressure Plate = Mall  
+Purple Dye + White Dye + Polished Blackstone Pressure Plate = Mellohi  
+Black Dye + Polished Blackstone Pressure Plate = Stal  
+White Dye + Polished Blackstone Pressure Plate = Strad  
+Green Dye + Lime Dye + Polished Blackstone Pressure Plate = Ward  
+Gray Dye + Polished Blackstone Pressure Plate = 11  
+Blue Dye + Polished Blackstone Pressure Plate = Wait  
+Light Blue Dye + Heavy Weighted Pressure Plate = Tears  
+Red Dye + White Dye + Polished Blackstone Pressure Plate = Lava Chicken  

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dye_tricks:wither_skeleton_skull_from_carved_pumpkin"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:carved_pumpkin",
+        "count": 1,
+        "data": 0
+      },
+      {
+        "item": "minecraft:dye",
+        "count": 1,
+        "data": 16
+      }
+    ],
+    "unlock": [
+      {
+        "tag": "minecraft:carved_pumpkin"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:wither_skeleton_skull"
+      }
+    ]
+  }
+}
