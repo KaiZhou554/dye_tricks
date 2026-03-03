@@ -3,7 +3,7 @@
 ## Hostile Mob Drops:
 Lime Dye + Honey Bottle = Slime Ball  
 
-- ⚠️**Note:** This recipe is **shaped**—place the **Lime Dye** **above** the **Slime Ball**.  
+- ⚠️**Note:** This recipe is **shaped**—place the **Lime Dye** **above** the **Honey Bottle**.  
 
 Orange Dye + Stick = Blaze Rod  
 Light Blue Dye + Stick = Wind Charge  
