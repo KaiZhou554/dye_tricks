@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:sugar"
+        "item": "minecraft:sugar"
       }
     ],
     "result": [

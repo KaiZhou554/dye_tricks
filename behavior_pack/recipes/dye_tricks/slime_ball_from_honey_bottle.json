@@ -21,7 +21,7 @@
 
     "unlock": [
       {
-        "tag": "minecraft:honey_bottle"
+        "item": "minecraft:honey_bottle"
       }
     ],
 

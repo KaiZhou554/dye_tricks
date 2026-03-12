@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:sand"
+        "item": "minecraft:sand"
       }
     ],
     "result": [

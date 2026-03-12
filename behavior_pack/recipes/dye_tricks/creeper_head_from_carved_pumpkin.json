@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:carved_pumpkin"
+        "item": "minecraft:carved_pumpkin"
       }
     ],
     "result": [

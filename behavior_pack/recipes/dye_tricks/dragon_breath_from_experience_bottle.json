@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:experience_bottle"
+        "item": "minecraft:experience_bottle"
       }
     ],
     "result": [

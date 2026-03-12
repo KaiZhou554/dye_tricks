@@ -19,7 +19,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:shroomlight"
+        "item": "minecraft:shroomlight"
       }
     ],
 

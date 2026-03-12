@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:polished_blackstone_pressure_plate"
+        "item": "minecraft:polished_blackstone_pressure_plate"
       }
     ],
     "result": [

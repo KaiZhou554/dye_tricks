@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:flint"
+        "item": "minecraft:flint"
       }
     ],
     "result": [

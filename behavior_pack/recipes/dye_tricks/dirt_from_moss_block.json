@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:moss_block"
+        "item": "minecraft:moss_block"
       }
     ],
     "result": [

@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:fern"
+        "item": "minecraft:fern"
       }
     ],
     "result": [

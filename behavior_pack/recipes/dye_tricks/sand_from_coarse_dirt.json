@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:coarse_dirt"
+        "item": "minecraft:coarse_dirt"
       }
     ],
     "result": [

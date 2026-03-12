@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:beetroot"
+        "item": "minecraft:beetroot"
       }
     ],
     "result": [

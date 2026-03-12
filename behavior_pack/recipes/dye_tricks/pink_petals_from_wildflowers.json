@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:wildflowers"
+        "item": "minecraft:wildflowers"
       }
     ],
     "result": [

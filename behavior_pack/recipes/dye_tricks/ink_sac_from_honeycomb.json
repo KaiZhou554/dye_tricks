@@ -21,7 +21,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:honeycomb"
+        "item": "minecraft:honeycomb"
       }
     ],
     "result": [

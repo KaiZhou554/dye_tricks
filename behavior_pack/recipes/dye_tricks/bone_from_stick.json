@@ -19,7 +19,7 @@
     ],
     "unlock": [
       {
-        "tag": "minecraft:stick"
+        "item": "minecraft:stick"
       }
     ],
 
